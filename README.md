@@ -1,4 +1,4 @@
-# Safe Space Assistant Setup Instructions
+#Sarah Safe Space Setup Instructions
 
 ## Prerequisites
 1. **Google Colab Account**: Ensure you have access to Google Colab.
