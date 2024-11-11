@@ -4,7 +4,7 @@
 1. **Google Colab Account**: Ensure you have access to Google Colab.
 2. **Gemini API Key**: Obtain a Gemini API key from Google. Follow these steps:
    - Go to https://ai.google.dev/gemini-api/docs/api-key to create and access your API key.
-
+test
 
 ## Instructions
 1. **Upload the Document**:
