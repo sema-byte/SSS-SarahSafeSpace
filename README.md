@@ -1,5 +1,6 @@
 # Safe Space Assistant Setup Instructions
 
+NN
 ## Prerequisites
 1. **Google Colab Account**: Ensure you have access to Google Colab.
 2. **Gemini API Key**: Obtain a Gemini API key from Google. Follow these steps:
